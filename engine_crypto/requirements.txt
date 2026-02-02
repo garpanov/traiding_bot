@@ -1,0 +1,7 @@
+asyncio
+python-dotenv
+fastapi
+uvicorn
+pydantic
+httpx
+websockets

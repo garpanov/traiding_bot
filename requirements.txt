@@ -1,0 +1,9 @@
+aiogram
+httpx
+python-dotenv
+asyncio
+fastapi
+uvicorn
+pydantic
+websockets
+cryptography

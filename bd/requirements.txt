@@ -1,0 +1,10 @@
+sqlalchemy
+asyncio
+asyncpg
+python-dotenv
+fastapi
+uvicorn
+pydantic
+cryptography
+httpx
+
